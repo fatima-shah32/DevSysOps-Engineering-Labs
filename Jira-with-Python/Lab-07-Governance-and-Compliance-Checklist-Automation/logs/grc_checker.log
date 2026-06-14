@@ -1,0 +1,52 @@
+2026-06-14 04:15:52,285 - INFO - Loaded 5 GRC checks
+2026-06-14 04:15:52,285 - INFO - Starting GRC compliance checks...
+2026-06-14 04:15:52,285 - INFO - Running check SEC001: Password Policy Compliance
+2026-06-14 04:15:52,286 - INFO - Check SEC001 PASSED
+2026-06-14 04:15:52,286 - INFO - Running check SEC002: SSH Configuration Security
+2026-06-14 04:15:52,286 - WARNING - Check SEC002 FAILED: Password authentication enabled (consider key-based)
+2026-06-14 04:15:52,286 - INFO - Running check SEC003: File Permissions Audit
+2026-06-14 04:15:52,286 - INFO - Check SEC003 PASSED
+2026-06-14 04:15:52,286 - INFO - Running check SEC004: Service Status Monitoring
+2026-06-14 04:15:52,309 - INFO - Check SEC004 PASSED
+2026-06-14 04:15:52,309 - INFO - Running check SEC005: Log File Integrity
+2026-06-14 04:15:52,309 - INFO - Check SEC005 PASSED
+2026-06-14 04:15:52,309 - INFO - GRC compliance checks completed
+2026-06-14 04:15:52,915 - INFO - Loaded 5 GRC checks
+2026-06-14 04:15:52,915 - INFO - Starting GRC compliance checks...
+2026-06-14 04:15:52,915 - INFO - Running check SEC001: Password Policy Compliance
+2026-06-14 04:15:52,915 - INFO - Check SEC001 PASSED
+2026-06-14 04:15:52,916 - INFO - Running check SEC002: SSH Configuration Security
+2026-06-14 04:15:52,916 - WARNING - Check SEC002 FAILED: Password authentication enabled (consider key-based)
+2026-06-14 04:15:52,916 - INFO - Running check SEC003: File Permissions Audit
+2026-06-14 04:15:52,916 - INFO - Check SEC003 PASSED
+2026-06-14 04:15:52,916 - INFO - Running check SEC004: Service Status Monitoring
+2026-06-14 04:15:52,938 - INFO - Check SEC004 PASSED
+2026-06-14 04:15:52,938 - INFO - Running check SEC005: Log File Integrity
+2026-06-14 04:15:52,939 - INFO - Check SEC005 PASSED
+2026-06-14 04:15:52,939 - INFO - GRC compliance checks completed
+2026-06-14 04:20:00,162 - INFO - Loaded 5 GRC checks
+2026-06-14 04:20:00,162 - INFO - Starting GRC compliance checks...
+2026-06-14 04:20:00,163 - INFO - Running check SEC001: Password Policy Compliance
+2026-06-14 04:20:00,163 - INFO - Check SEC001 PASSED
+2026-06-14 04:20:00,163 - INFO - Running check SEC002: SSH Configuration Security
+2026-06-14 04:20:00,163 - WARNING - Check SEC002 FAILED: Password authentication enabled (consider key-based)
+2026-06-14 04:20:00,163 - INFO - Running check SEC003: File Permissions Audit
+2026-06-14 04:20:00,163 - INFO - Check SEC003 PASSED
+2026-06-14 04:20:00,164 - INFO - Running check SEC004: Service Status Monitoring
+2026-06-14 04:20:00,199 - INFO - Check SEC004 PASSED
+2026-06-14 04:20:00,199 - INFO - Running check SEC005: Log File Integrity
+2026-06-14 04:20:00,200 - INFO - Check SEC005 PASSED
+2026-06-14 04:20:00,200 - INFO - GRC compliance checks completed
+2026-06-14 04:20:00,805 - INFO - Loaded 5 GRC checks
+2026-06-14 04:20:00,806 - INFO - Starting GRC compliance checks...
+2026-06-14 04:20:00,806 - INFO - Running check SEC001: Password Policy Compliance
+2026-06-14 04:20:00,806 - INFO - Check SEC001 PASSED
+2026-06-14 04:20:00,806 - INFO - Running check SEC002: SSH Configuration Security
+2026-06-14 04:20:00,806 - WARNING - Check SEC002 FAILED: Password authentication enabled (consider key-based)
+2026-06-14 04:20:00,807 - INFO - Running check SEC003: File Permissions Audit
+2026-06-14 04:20:00,807 - INFO - Check SEC003 PASSED
+2026-06-14 04:20:00,807 - INFO - Running check SEC004: Service Status Monitoring
+2026-06-14 04:20:00,830 - INFO - Check SEC004 PASSED
+2026-06-14 04:20:00,830 - INFO - Running check SEC005: Log File Integrity
+2026-06-14 04:20:00,830 - INFO - Check SEC005 PASSED
+2026-06-14 04:20:00,830 - INFO - GRC compliance checks completed

@@ -1,0 +1,22 @@
+{
+  "id": "GRC-1000",
+  "title": "GRC Compliance Violation: Password Policy Compliance",
+  "description": "\n**Compliance Check Failed**\n\n**Check ID:** SEC001\n**Check Name:** Password Policy Compliance\n**Category:** Authentication\n**Severity:** High\n\n**Issues Identified:**\n- Password minimum length not configured\n- Password aging not set\n\n**Details:** Password policy configuration checked\n\n**Timestamp:** 2026-06-14T04:16:39.971343\n\n**Recommended Actions:**\n- Review and update password policy configuration\n- Ensure minimum password length is set to at least 8 characters\n- Configure password aging policies\n- Implement password complexity requirements\n",
+  "priority": "High",
+  "severity": "High",
+  "category": "Authentication",
+  "status": "Open",
+  "check_id": "SEC001",
+  "issues": [
+    "Password minimum length not configured",
+    "Password aging not set"
+  ],
+  "created_at": "2026-06-14T04:16:39.971479",
+  "updated_at": "2026-06-14T04:16:39.971485",
+  "assignee": "Security Team",
+  "labels": [
+    "grc-compliance",
+    "security",
+    "authentication"
+  ]
+}

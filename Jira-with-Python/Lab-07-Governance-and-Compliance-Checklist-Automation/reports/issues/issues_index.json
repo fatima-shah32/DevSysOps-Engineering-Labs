@@ -1,0 +1,30 @@
+{
+  "GRC-1000": {
+    "title": "GRC Compliance Violation: Password Policy Compliance",
+    "status": "Open",
+    "priority": "High",
+    "created_at": "2026-06-14T04:16:39.971479",
+    "check_id": "SEC001"
+  },
+  "GRC-1001": {
+    "title": "GRC Compliance Violation: Password Policy Compliance",
+    "status": "Open",
+    "priority": "High",
+    "created_at": "2026-06-14T04:16:40.555969",
+    "check_id": "SEC001"
+  },
+  "GRC-1002": {
+    "title": "GRC Compliance Violation: SSH Configuration Security",
+    "status": "Open",
+    "priority": "Highest",
+    "created_at": "2026-06-14T04:20:00.200690",
+    "check_id": "SEC002"
+  },
+  "GRC-1003": {
+    "title": "GRC Compliance Violation: SSH Configuration Security",
+    "status": "Open",
+    "priority": "Highest",
+    "created_at": "2026-06-14T04:20:00.831298",
+    "check_id": "SEC002"
+  }
+}
